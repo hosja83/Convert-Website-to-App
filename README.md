@@ -1,4 +1,4 @@
-# Convert Website to App
+# Website and Mobile Application Development 
 
 This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Convert Website to App](https://youtu.be/tGYGSnbld9s) as well as the blog article [Convert Website to App](https://blog.jamesonsaunders.com/convert-website-to-app).
 
